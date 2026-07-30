@@ -1,0 +1,9 @@
+# Core Requirements
+PyQt5
+requests
+
+# Optional: PDF thumbnail previews
+PyMuPDF
+
+# Optional: Live Radar page
+PyQtWebEngine
